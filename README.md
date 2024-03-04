@@ -32,5 +32,5 @@ Before running the application, ensure you have the following installed:
    npm install
    
 2. Set up MongoDB:
-Ensure MongoDB is running on your machine or update the connection string in the app.js file.
+Ensure MongoDB is running on your machine or update the connection string in the server.js file.
 
