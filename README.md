@@ -34,12 +34,6 @@ Before running the application, ensure you have the following installed:
 2. Set up MongoDB:
 Ensure MongoDB is running on your machine or update the connection string in the app.js file.
 
-3. Run the application:
-  ```bash
-   Copy code
-   npm start
- The application will be accessible at http://localhost:3000.
-
 ##Configuration
 Update MongoDB connection details in app.js.
 Modify session secret in app.js.
